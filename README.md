@@ -36,38 +36,37 @@ jiugeyunyinyue 文件夹内是前端页面代码
 
 ##### 首页
 
-![image-20221103210345034](C:\Users\32154\AppData\Roaming\Typora\typora-user-images\image-20221103210345034.png)
+![image-20221103210345034]([jiugeyunyinyue/image-20221103210345034.png at main · Light-seven/jiugeyunyinyue (github.com)](https://github.com/Light-seven/jiugeyunyinyue/blob/main/image/image-20221103210345034.png))
 
 ##### 歌单广场
 
-![image-20221103210524260](C:\Users\32154\AppData\Roaming\Typora\typora-user-images\image-20221103210524260.png)
+![image-20221103210524260]([jiugeyunyinyue/image-20221103210524260.png at main · Light-seven/jiugeyunyinyue (github.com)](https://github.com/Light-seven/jiugeyunyinyue/blob/main/image/image-20221103210524260.png))
 
 ##### 歌单详情
 
-![image-20221103211003153](C:\Users\32154\AppData\Roaming\Typora\typora-user-images\image-20221103211003153.png)
+![image-20221103211003153]([jiugeyunyinyue/image-20221103211003153.png at main · Light-seven/jiugeyunyinyue (github.com)](https://github.com/Light-seven/jiugeyunyinyue/blob/main/image/image-20221103211003153.png))
 
 ##### 搜索页面
 
-![image-20221103211442004](C:\Users\32154\AppData\Roaming\Typora\typora-user-images\image-20221103211442004.png)
+![image-20221103211442004]([jiugeyunyinyue/image-20221103211442004.png at main · Light-seven/jiugeyunyinyue (github.com)](https://github.com/Light-seven/jiugeyunyinyue/blob/main/image/image-20221103211442004.png))
 
-![image-20221103211447045](C:\Users\32154\AppData\Roaming\Typora\typora-user-images\image-20221103211447045.png)
+![image-20221103211447045]([jiugeyunyinyue/image-20221103211447045.png at main · Light-seven/jiugeyunyinyue (github.com)](https://github.com/Light-seven/jiugeyunyinyue/blob/main/image/image-20221103211447045.png))
 
 ##### 视频页面
 
-![image-20221103211632306](C:\Users\32154\AppData\Roaming\Typora\typora-user-images\image-20221103211632306.png)
+![image-20221103211632306]([jiugeyunyinyue/image-20221103211632306.png at main · Light-seven/jiugeyunyinyue (github.com)](https://github.com/Light-seven/jiugeyunyinyue/blob/main/image/image-20221103211632306.png))
 
 ##### 个人主页
 
-![image-20221103211946386](C:\Users\32154\AppData\Roaming\Typora\typora-user-images\image-20221103211946386.png)
+![image-20221103211946386]([jiugeyunyinyue/image-20221103211946386.png at main · Light-seven/jiugeyunyinyue (github.com)](https://github.com/Light-seven/jiugeyunyinyue/blob/main/image/image-20221103211946386.png))
 
 ##### 播放页面
 
-![image-20221103212633147](C:\Users\32154\AppData\Roaming\Typora\typora-user-images\image-20221103212633147.png)
+![image-20221103212633147]([jiugeyunyinyue/image-20221103212633147.png at main · Light-seven/jiugeyunyinyue (github.com)](https://github.com/Light-seven/jiugeyunyinyue/blob/main/image/image-20221103212633147.png))
 
 ##### 播放列表
 
-![image-20221103212845231](C:\Users\32154\AppData\Roaming\Typora\typora-user-images\image-20221103212845231.png)
-
+![image-20221103212845231]([jiugeyunyinyue/image-20221103212845231.png at main · Light-seven/jiugeyunyinyue (github.com)](https://github.com/Light-seven/jiugeyunyinyue/blob/main/image/image-20221103212845231.png))
 
 
 
