@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-icons": "/uni_modules/uni-icons/components/uni-icons/uni-icons",
+    "song-list": "/components/songList/songList",
+    "footer-play": "/components/footerPlay/footerPlay"
+  }
+}

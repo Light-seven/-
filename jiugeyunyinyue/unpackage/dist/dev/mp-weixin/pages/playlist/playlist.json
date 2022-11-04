@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "九歌云音乐",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-icons": "/uni_modules/uni-icons/components/uni-icons/uni-icons",
+    "theme": "/components/theme/theme",
+    "footer-play": "/components/footerPlay/footerPlay"
+  }
+}

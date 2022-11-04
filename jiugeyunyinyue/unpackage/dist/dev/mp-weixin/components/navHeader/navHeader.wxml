@@ -1,0 +1,1 @@
+<view class="header"><view class="header-title">{{title}}</view><view class="headerUnder"><view class="under-left">{{moreTitle}}</view><view class="under-right">查看更多</view></view></view>
